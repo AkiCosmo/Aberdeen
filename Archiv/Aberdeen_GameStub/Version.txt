@@ -1,0 +1,1 @@
+Basisversion eines Spiels ohne visuelle Screens, nur mit Display.
